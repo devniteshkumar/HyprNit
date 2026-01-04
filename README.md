@@ -2,6 +2,10 @@
 
 This repo contains configuration files for Hyprland, Waybar, Rofi, Kitty and related Wayland utilities.
 
+## Preview
+- ![Desktop overview](previews/Desktop.png)
+- ![Kitty terminal](previews/Terminal.png)
+
 ## Overview
 - Hyprland config: `hypr/hyprland.conf` and `hypr/modules/`
 - Waybar: `waybar/` (includes `launch.sh`)
